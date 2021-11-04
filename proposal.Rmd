@@ -1,0 +1,16 @@
+---
+title: "proposal"
+author: "VIbhu Dhavala"
+date: "11/3/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+[link to data used](https://highered.ipums.org/highered/index.shtml)
+
+Ive added 7 additional variables on top of the defaults to my dataset. These consist of gender, mimority status, ethnicity, highest degree or certificate, field of degree by group, salary, and job satisfacion
+
+I intend to use this data to perform an analysis based around attributes of a person. I want to compare these variables in various combinations such as seeing how Race and Gender affect higest degree or  to see the distribution of various ethnicity groups in different fields, 
